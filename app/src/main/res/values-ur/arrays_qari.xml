@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>مشاری راشد العفاسی</item>
+        <item>عبدالرحمٰن السدیس</item>
+        <item>سعود الشریم</item>
+        <item>ماہر المیقلی</item>
+        <item>فارس عباد</item>
+        <item>احمد العجمی</item>
+        <item>ہانی الرفاعی</item>
+        <item>علی الحذیفی</item>
+
+        <item>عبدالباسط</item>
+
+        <item>منشاوی</item>
+
+        <item>محمود خلیل الحسری</item>
+
+        <item>عبداللہ الجہنی</item>
+        <item>عبداللہ بصفر</item>
+        <item>عبداللہ مطرود</item>
+        <item>علی جابر</item>
+        <item>ایمن سویعد</item>
+        <item>صالح البدیر</item>
+        <item>صالح بخاطر</item>
+        <item>یاسر الدوسری</item>
+        <item>یاسر سلامہ</item>
+        <item>سہل یاسین</item>
+        <item>ناصر القطامی</item>
+
+        <item>ابراہیم الاخضر</item>
+        <item>اکرم العلقمی</item>
+        <item>علی حجاج السوسی</item>
+        <item>محمد ایوب</item>
+        <item>محمد جبریل</item>
+        <item>محمد محمود الطبلاوی</item>
+        <item>محسن القاسم</item>
+        <item>مصطفیٰ اسماعیل</item>
+        <item>نبیل الرفاعی</item>
+        <item>خلیفہ التنجی</item>
+        <item>سعود الغامدی</item>
+        <item>کریم منصوری</item>
+        <item>عزیز علیلی</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

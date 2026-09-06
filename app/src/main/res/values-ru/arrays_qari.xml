@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Russian transliteration of famous qāriʼ names (с вариантами битрейта) -->
+    <string-array name="qari_names">
+        <item>Мишари Рашид Аль-Афаси</item>
+        <item>Абдуррахман ас-Судайс</item>
+        <item>Сауд аш-Шурайм</item>
+        <item>Махир аль-Муайкли</item>
+        <item>Фарис Аббад</item>
+        <item>Ахмад аль-Аджми</item>
+        <item>Хани ар-Рифаи</item>
+        <item>Али аль-Худжайфи</item>
+
+        <item>Абдуль Басит</item>
+
+        <item>Миншауи</item>
+
+        <item>Махмуд Халиль аль-Хусари</item>
+
+        <item>Абдулла аль-Джухани</item>
+        <item>Абдулла Басфар</item>
+        <item>Абдулла Матруд</item>
+        <item>Али Джабир</item>
+        <item>Айман Сувайд</item>
+        <item>Салах аль-Будайр</item>
+        <item>Салах Букхатир</item>
+        <item>Ясир ад-Дусари</item>
+        <item>Ясир Салама</item>
+        <item>Сахль Ясин</item>
+        <item>Насер аль-Катами</item>
+
+        <item>Ибрахим аль-Ахдар</item>
+        <item>Акрам аль-Алякми</item>
+        <item>Али Хаджжадж ас-Суси</item>
+        <item>Мухаммад Аюб</item>
+        <item>Мухаммад Джибрил</item>
+        <item>Мухаммад Махмуд ат-Таблауи</item>
+        <item>Мухсин аль-Касим</item>
+        <item>Мустафа Исмаил</item>
+        <item>Набиль ар-Рифаи</item>
+        <item>Халифа ат-Тунайджи</item>
+        <item>Сауд аль-Гамиди</item>
+        <item>Карим Мансури</item>
+        <item>Азиз Алилли</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

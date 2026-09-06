@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>미샤리 라시드 알아파시</item>
+        <item>압두르라흐만 앗수다이스</item>
+        <item>사우드 알슈라이임</item>
+        <item>마헤르 알무아이끌리</item>
+        <item>파레스 압바드</item>
+        <item>아흐마드 알아즈미</item>
+        <item>하니 알리파이</item>
+        <item>알리 알후다이피</item>
+
+        <item>압둘바싯</item>
+
+        <item>민샤위</item>
+
+        <item>마흐무드 칼릴 알후사리</item>
+
+        <item>압둘라 알주하니</item>
+        <item>압둘라 바스파르</item>
+        <item>압둘라 마트루드</item>
+        <item>알리 자베르</item>
+        <item>아이만 수와이드</item>
+        <item>살라 알부다이르</item>
+        <item>살라 부카티르</item>
+        <item>야세르 알도사리</item>
+        <item>야세르 살라마</item>
+        <item>사흘 야신</item>
+        <item>나세르 알카타미</item>
+
+        <item>이브라힘 알아크다르</item>
+        <item>아크람 알아라끄미</item>
+        <item>알리 하지자 알수시</item>
+        <item>무함마드 아유브</item>
+        <item>무함마드 지브릴</item>
+        <item>무함마드 마흐무드 알타블라위</item>
+        <item>모흐센 알카심</item>
+        <item>무스타파 이스마일</item>
+        <item>나빌 알리파이</item>
+        <item>칼리파 알투나이지</item>
+        <item>사우드 알감디</item>
+        <item>카림 만수리</item>
+        <item>아지즈 알릴리</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

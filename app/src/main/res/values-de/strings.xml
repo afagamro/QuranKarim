@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Information -->
+    <string name="app_name">Der Heilige Koran</string>
+    <string name="home">Startseite</string>
+    <string name="settings_and_support">Einstellungen &amp; Support</string>
+    <string name="setting">Einstellungen</string>
+    <string name="help">Hilfe</string>
+    <string name="info">Über die App</string>
+    <string name="share_and_rate">Teilen &amp; Bewerten</string>
+    <string name="share">App teilen</string>
+    <string name="share_qr">Per QR teilen</string>
+    <string name="rate_app">App bewerten</string>
+    <string name="other_apps">Weitere Apps</string>
+    <string name="exit">Beenden</string>
+
+    <!-- about_app_description ist im arabischen Hauptfile nicht für Übersetzung zwingend -->
+
+    <string name="help_title">Hilfe</string>
+    <string name="help_content">Für Support oder Fragen kontaktieren Sie uns bitte per E-Mail: 121yu122@gmail.com</string>
+    <string name="app_logo">App-Logo</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
+    <string name="system_default">Systemstandard</string>
+    <string name="choose_font_size">Schriftgröße wählen</string>
+    <string name="scan_qr">QR-Code scannen, um die App herunterzuladen</string>
+
+    <string name="navigation_drawer_open">Navigationsmenü öffnen</string>
+    <string name="navigation_drawer_close">Navigationsmenü schließen</string>
+
+    <!-- Tabs -->
+    <string name="tab_surahs">Suren</string>
+    <string name="tab_juz">Juz</string>
+    <string name="tab_favorites">Favoriten</string>
+
+    <!-- Advanced Features -->
+    <string name="quran_default_title">Der Heilige Koran</string>
+    <string name="downloading_soon">Download-Funktion kommt bald</string>
+    <string name="choose_tafsir">Tafsir auswählen</string>
+    <string name="tafseer_selected">Tafsir wurde erfolgreich ausgewählt!</string>
+    <string name="play_error">Rezitation konnte nicht abgespielt werden</string>
+    <string name="remove_from_favorites">Seite aus den Favoriten entfernt</string>
+    <string name="add_to_favorites">Seite zu den Favoriten hinzugefügt</string>
+    <string name="repeat_settings">Wiederholungs-Einstellungen</string>
+    <string name="repeat_assigned">%1$s wiederholen (%2$d Mal)</string>
+    <string name="share_tafsir">Tafsir teilen</string>
+    <string name="tafseer_surah_ayah">Sure %1$s – Vers %2$d</string>
+    <string name="ok">OK</string>
+    <string name="close">Schließen</string>
+    <string name="select_qari">Rezitator auswählen</string>
+    <string name="select_tafsir">Tafsir auswählen</string>
+    <string name="ayah_options">Vers-Optionen</string>
+    <string name="copy">Kopieren</string>
+    <string name="share_ayah">Teilen</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="play">Abspielen</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Fortsetzen</string>
+    <string name="stop">Stopp</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="favorites">Favoriten</string>
+    <string name="remove">Entfernen</string>
+    <string name="add">Hinzufügen</string>
+    <string name="last_visited_pages">Zuletzt geöffnete Seiten</string>
+    <string name="no_last_pages">Keine aktuellen Seiten</string>
+    <string name="go_to_page">Zu Seite springen</string>
+    <string name="surah">Sure</string>
+    <string name="ayah">Vers</string>
+    <string name="surah_search_hint">Nach Surname suchen</string>
+    <string name="no_tafsir_available">Für diesen Vers ist kein Tafsir verfügbar</string>
+    <string name="juz">Juz</string>
+    <string name="juz_start_page">Beginnt ab Seite %1$d</string>
+    <string name="juz_search_hint">Nach Juz-Nummer oder -Name suchen</string>
+    <string name="menu_clear_all_bookmarks">🗑️ Alle Markierungen löschen</string>
+    <string name="menu_clear_all_recent">🧹 Verlauf löschen</string>
+    <string name="recent_pages_title">🕓 Letzte Seiten</string>
+    <string name="favorite_pages_title">⭐ Favoriten-Seiten</string>
+
+    <string name="menu_last_read_juz">📌 Zuletzt gelesener Juz</string>
+    <string name="menu_jump_to_juz">Zu Juz springen</string>
+    <string name="menu_jump_to_surah">Zu Sure springen</string>
+
+    <string name="reset_onboarding_button">Einführung zurücksetzen</string>
+    <string name="reset_onboarding">App-Einführung zurücksetzen</string>
+    <string name="choose_font">Schriftgröße wählen</string>
+    <string name="choose_language">Sprache wählen</string>
+    <string name="arabic">Arabisch</string>
+    <string name="english">Englisch</string>
+    <string name="choose_theme">Design wählen</string>
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="theme_system">Systemstandard</string>
+    <string name="font_small">Klein</string>
+    <string name="font_medium">Mittel</string>
+    <string name="font_large">Groß</string>
+    <string name="screen_options">Bildschirmoptionen</string>
+    <string name="keep_screen_on">Bildschirm beim Lesen eingeschaltet lassen</string>
+    <string name="font_changed">Schriftgröße geändert</string>
+    <string name="settings_reset">Einstellungen wurden zurückgesetzt!</string>
+
+    <string name="page">Seite</string>
+    <string name="favorite">Favorit</string>
+    <string name="clear_all_favorites">Alle Favoriten löschen</string>
+    <string name="clear_all_recent">Verlauf löschen</string>
+    <string name="favorite_pages">Favoriten-Seiten</string>
+    <string name="recent_pages">Letzte Seiten</string>
+    <string name="no_favorites">Keine Favoriten-Seiten</string>
+    <string name="tap_to_open_page">Zum Öffnen der Seite tippen</string>
+    <string name="all_favorites_cleared">Alle Favoriten wurden gelöscht</string>
+    <string name="all_recent_cleared">Verlauf wurde gelöscht</string>
+    <string name="bookmark_title">🕓 Seite %1$d</string>
+    <string name="favorite_page_hint">⭐ Seite %1$d</string>
+    <string name="favorite_page_item">⭐ Seite %1$d</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Startseite</string>
+    <string name="nav_search">Suche</string>
+    <string name="nav_settings">Einstellungen</string>
+    <string name="nav_help">Hilfe</string>
+    <string name="nav_about">Über</string>
+    <string name="nav_share_app">App teilen</string>
+    <string name="nav_share_qr">Per QR teilen</string>
+    <string name="nav_rate_app">App bewerten</string>
+    <string name="nav_other_apps">Weitere Apps</string>
+
+    <!-- Exit -->
+    <string name="exit_confirm_title">Beenden bestätigen</string>
+    <string name="exit_confirm_message">Möchten Sie die App beenden?</string>
+    <string name="yes">Ja</string>
+
+    <!-- Version -->
+    <string name="version_loading">Version wird überprüft…</string>
+    <string name="version_format">Version %1$s</string>
+    <string name="version_example">Version 1.0.38</string>
+
+    <!-- Extra -->
+    <string name="search">Suche</string>
+    <string name="search_empty">Nach einem Wort oder Ausdruck suchen…</string>
+    <string name="search_results_placeholder">Ergebnisse</string>
+    <string name="qr_code">QR-Code</string>
+    <string name="share_qr_hint">QR-Code scannen oder Link teilen</string>
+
+    <string name="header_developer_by">Von: %1$s</string>
+    <string name="header_developer_by_example">Von: Sadiq Hassan</string>
+    <string name="header_dates">%1$s • %2$s</string>
+    <string name="header_dates_example">7. Juni 2025 • 10. Dhul-Hidscha 1446</string>
+
+    <string name="share_message">Teilen Sie die Heilige-Koran-App, um Lohn zu erhalten: %1$s</string>
+    <string name="share_chooser_title">Tafsir teilen</string>
+
+    <string name="hijri_placeholder">Hijri-Datum</string>
+
+    <string name="action_toggle_page_bookmark">Seite speichern</string>
+    <string name="action_toggle_repeat">Wiederholen</string>
+    <string name="action_download_tafsirs">Tafsirs herunterladen</string>
+    <string name="action_select_tafsir">Tafsir auswählen</string>
+
+    <string name="bulk_prefetch_start_msg">
+Bitte warten Sie, während die Seiten des Mushaf heruntergeladen werden … Nutzen Sie die Zeit für Istighfar und Salawat auf den Propheten ﷺ
+    </string>
+
+    <string name="download_ready">Bereit zum Herunterladen</string>
+    <string name="download_progress">%1$d%%</string>
+    <string name="download_now">Jetzt herunterladen</string>
+    <string name="of_pages">%1$d / %2$d</string>
+    <string name="download">Herunterladen</string>
+
+    <!-- Dialog -->
+    <string name="go_to_surah">Zu Sure springen</string>
+    <string name="search_surah_hint">🔍 Nach Sure suchen</string>
+    <string name="cancel">Abbrechen</string>
+
+    <!-- Juz -->
+    <string name="go_to_juz">Zu Juz springen</string>
+    <string name="search_juz_hint">🔍 Nach Juz suchen</string>
+
+    <!-- Repeat dialog -->
+    <string name="repeat_count_label">Anzahl der Wiederholungen:</string>
+
+    <!-- Tafsir dialog -->
+    <string name="tafsir_ayah_title">Sure … – Vers …</string>
+    <string name="tafsir_sample_ayah">بسم الله الرحمن الرحيم</string>
+    <string name="tafsir_text_placeholder">Tafsir-Text wird hier angezeigt</string>
+
+    <!-- Pages download UI (for recitation) -->
+    <string name="pages_download_starting">Rezitations-Download wird gestartet…</string>
+    <string name="pages_download_progress">Rezitation wird heruntergeladen — %1$d / %2$d</string>
+    <string name="pages_download_done">Rezitation wurde erfolgreich heruntergeladen.</string>
+    <string name="pages_download_failed">Rezitation konnte nicht heruntergeladen werden.</string>
+    <string name="pages_download_canceled">Rezitations-Download wurde abgebrochen.</string>
+
+    <!-- Repeat UI -->
+    <string name="repeat_settings_title">Wiederholungs-Einstellungen</string>
+
+    <!-- Audio batch downloader -->
+    <string name="no_recitations_to_download">Keine Rezitationen zum Herunterladen.</string>
+    <string name="downloading_recitations">Rezitationen werden heruntergeladen…</string>
+    <string name="recitations_saved">Rezitationen wurden gespeichert!</string>
+    <string name="download_error">Beim Herunterladen ist ein Fehler aufgetreten.</string>
+
+    <!-- BoundsRepo -->
+    <string name="ayah_text_unavailable">Vers-Text nicht verfügbar</string>
+
+    <string name="qari_icon">Rezitator-Icon</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="qari_selected_toast">%1$s wurde ausgewählt</string>
+
+    <string name="choose_qari_title">Rezitator auswählen</string>
+
+    <string name="choose_language_title">App-Sprache auswählen</string>
+    <string name="choose_language_subtitle">Sie können die Sprache später in den Einstellungen ändern</string>
+    <string name="continue_btn">Weiter</string>
+    <string name="device_language_option">Gerätesprache verwenden</string>
+
+    <!-- Language names -->
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_english">English</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_bengali">বাংলা</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="lang_chinese">中文</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_korean">한국어</string>
+    <string name="lang_portuguese">Português</string>
+    <string name="lang_italian">Italiano</string>
+    <string name="lang_swahili">Kiswahili</string>
+    <string name="lang_thai">ไทย</string>
+
+    <string name="continue_text">Weiter</string>
+    <string name="language_selection_title">Sprachauswahl</string>
+
+    <!-- Search screen -->
+    <string name="search_title">Suche</string>
+    <string name="search_button">Suchen</string>
+    <string name="tab_surah">Suren</string>
+    <string name="tab_fav">Favoriten</string>
+    <string name="update_preparing">Update wird geprüft…</string>
+    <string name="update_downloading">Update wird heruntergeladen…</string>
+    <string name="update_downloaded_tap_to_restart">Download abgeschlossen — tippen Sie, um neu zu starten und das Update zu installieren</string>
+    <string name="update_installing">Update wird installiert…</string>
+    <string name="update_available_message">Ein neues Update ist verfügbar. Bitte auf die neueste Version aktualisieren.</string>
+    <string name="search_hint">Text zum Suchen eingeben…</string>
+    <string name="search_counter_format">Anzahl der Ergebnisse: %1$d</string>
+    <string name="no_internet_short">Keine Internetverbindung</string>
+
+    <!-- Marquee during download -->
+    <string name="pages_download_title_marquee">
+Bitte warten Sie, während die Seiten des Mushaf heruntergeladen werden… Nutzen Sie die Zeit für Istighfar und Salawat auf den Propheten ﷺ
+    </string>
+
+    <!-- General texts -->
+    <string name="downloading_quran_pages">Rezitation wird heruntergeladen…</string>
+    <string name="remaining_time">Verbleibende Zeit: …</string>
+    <string name="please_rate_app">Bitte bewerten Sie die App, damit wir sie weiter verbessern können 🌟</string>
+    <string name="juz_format">Juz %1$d</string>
+
+    <!-- Buttons -->
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_ok">OK</string>
+    <string name="loading">Laden…</string>
+    <string name="tafsir_not_found">Es wurde kein Tafsir gefunden.</string>
+    <string name="tafsir_title_fmt">Sure %1$d – Vers %2$d</string>
+    <string name="play_ayah">Vers abspielen</string>
+
+    <!-- Extra playback texts -->
+    <string name="play_pause">Abspielen / Pause</string>
+    <string name="reader">Rezitator</string>
+    <string name="downloading_ellipsis">Wird heruntergeladen…</string>
+    <string name="repeat_off">Wiederholung aus</string>
+    <string name="repeat_page">Seite wiederholen</string>
+    <string name="repeat_ayah">Einen Vers wiederholen</string>
+    <string name="bookmark_page">Seite speichern</string>
+
+    <string name="toast_repeat_off">Wiederholung ist deaktiviert</string>
+    <string name="toast_repeat_page">Seitenwiederholung aktiviert</string>
+    <string name="toast_repeat_ayah">Verswiederholung aktiviert</string>
+    <string name="audio_error">Rezitation konnte nicht abgespielt werden</string>
+    <string name="playing_online_fallback">...</string>
+
+    <string name="theme">Design</string>
+
+    <!-- Font -->
+    <string name="font_size">Schriftgröße</string>
+
+    <!-- Recitation storage -->
+    <string name="recitation_storage_title">Speicherort der Rezitation</string>
+    <string name="recitation_storage_internal">Interner Speicher (App-Ordner)</string>
+    <string name="recitation_storage_external">Externer Ordner (vom Nutzer gewählt)</string>
+    <string name="pick_external_folder">Einen Ordner für Downloads wählen (extern)</string>
+    <string name="recitation_storage_summary_internal">Aktueller Speicherort: interner App-Speicher (privater Ordner).</string>
+
+    <!-- Other -->
+    <string name="reset_settings">Einstellungen zurücksetzen</string>
+
+    <!-- Download notifications -->
+    <string name="notif_download_title">Rezitations-Download</string>
+    <string name="notif_download_progress">Verse %1$d / %2$d</string>
+    <string name="notif_time_left">Verbleibende Zeit: %1$s</string>
+    <string name="notif_pause">Pause</string>
+    <string name="notif_resume">Fortsetzen</string>
+    <string name="notif_stop">Stopp</string>
+    <string name="background_will_continue">Der Download wird im Hintergrund fortgesetzt.</string>
+    <string name="update_channel_name">App-Updates</string>
+    <string name="update_channel_desc">Benachrichtigungen, wenn eine neue Version verfügbar ist</string>
+    <string name="update_available_title">Neues Update verfügbar</string>
+
+    <string name="action_open_store">Store öffnen</string>
+    <string name="click_to_open_page">Zum Öffnen der Seite tippen</string>
+    <string name="tap_to_open">Zum Öffnen tippen</string>
+    <string name="delete">Löschen</string>
+    <string name="downloading">Wird heruntergeladen…</string>
+    <string name="mic">Mikrofon</string>
+
+    <string-array name="qari_qualities">
+        <item>MP3 • 128kbps</item>
+        <item>MP3 • 192kbps</item>
+        <item>MP3 • HQ</item>
+    </string-array>
+
+    <string name="dl_starting_now">Rezitations-Downloads werden gestartet…</string>
+    <string name="dl_preparing_list">Liste wird vorbereitet… (gesamt: %1$d)</string>
+    <string name="dl_progress">Rezitationen werden heruntergeladen — %1$d / %2$d</string>
+    <string name="dl_done">Abgeschlossen: %1$d / %2$d</string>
+
+    <string name="deleted_all_favorites">Alle gespeicherten Seiten wurden gelöscht</string>
+    <string name="recent_cleared">Verlauf wurde gelöscht</string>
+
+    <string name="theme_sun">☀️</string>
+    <string name="theme_moon">🌙</string>
+    <string name="page_label">Seite</string>
+    <string name="hint_open_page">Tippen, um zur Seite zu springen</string>
+    <!-- %1$s = page_label, %2$d = page number -->
+    <string name="recent_page_title">🕓 %1$s %2$d</string>
+
+</resources>

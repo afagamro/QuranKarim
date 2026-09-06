@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Information -->
+    <string name="app_name">Священный Коран</string>
+    <string name="home">Главная</string>
+    <string name="settings_and_support">Настройки и поддержка</string>
+    <string name="setting">Настройки</string>
+    <string name="help">Помощь</string>
+    <string name="info">О приложении</string>
+    <string name="share_and_rate">Поделиться и оценить</string>
+    <string name="share">Поделиться приложением</string>
+    <string name="share_qr">Поделиться через QR</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="other_apps">Другие приложения</string>
+    <string name="exit">Выход</string>
+
+    <string name="about_app_description">
+Священный Коран – полный мусхаф на 19 языках и с более чем 55 всемирно известными чтецами
+
+Приложение «Священный Коран» – ваш идеальный спутник для чтения, заучивания и размышления. Оно объединяет красоту бумажного мусхафа с удобством современных технологий, предлагая полноценный духовный опыт.
+
+✨ Основные возможности:
+
+📖 Полный мусхаф в османском письме с поддержкой увеличения и уменьшения масштаба, а также поворота экрана – для комфортного чтения в портретном и ландшафтном режиме.
+
+🎧 Динамическая панель воспроизведения, которая подсвечивает текущий аят в режиме реального времени во время прослушивания.
+
+🔁 Инструменты для заучивания и повтора: выберите один аят или диапазон аятов и повторяйте их нужное количество раз для идеальной памяти и повторения.
+
+🌍 Поддержка 19 языков, чтобы мусульманам по всему миру было удобно пользоваться приложением.
+
+🎙️ Более 55 известных чтецов (Аль-Афаси, Ас-Судайс, Аш-Шурайм, Аль-Муайкли, Абдуль Басыт, Миншауи, Аль-Аджми и другие).
+
+🕌 Несколько тафсиров (Джалалайн, Саади, Ибн Касир, Куртуби).
+
+⭐ Избранное и последние страницы: сохраняйте место чтения и важные страницы, чтобы быстро к ним возвращаться.
+
+🔎 Мощный поиск, который позволяет мгновенно находить любой аят или слово.
+
+🌙 Ночной режим для комфортного чтения при слабом освещении.
+
+🔔 Ежедневные напоминания о азкарах и чтении вашего ежедневного вирда из Корана.
+
+💡 Опыт без рекламы, с чистым и элегантным дизайном и плавной работой.
+
+🌟 Почему именно это приложение?
+
+Потому что это не просто цифровой мусхаф, а полноценный инструмент для чтения, заучивания и тафсира Корана, созданный для мусульман по всему миру.
+
+📲 Скачайте сейчас и начните своё путешествие с Кораном — чтение, запоминание и размышление.
+
+Holy Quran – Complete Mushaf with 19 Languages, 55+ Qaris, and Advanced Recitation Tools
+
+The “Holy Quran” app is your ultimate companion for recitation, memorization, and reflection. It combines the elegance of the Mushaf with modern technology for a complete spiritual journey.
+    </string>
+
+    <string name="help_title">Помощь</string>
+    <string name="help_content">Для поддержки или вопросов свяжитесь по электронной почте: 121yu122@gmail.com</string>
+    <string name="app_logo">Логотип приложения</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Настройки</string>
+    <string name="light">Светлая</string>
+    <string name="dark">Тёмная</string>
+    <string name="system_default">Системная по умолчанию</string>
+    <string name="choose_font_size">Выберите размер шрифта</string>
+    <string name="scan_qr">Отсканируйте QR-код, чтобы загрузить приложение</string>
+
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+
+    <!-- Tabs -->
+    <string name="tab_surahs">Суры</string>
+    <string name="tab_juz">Джузы</string>
+    <string name="tab_favorites">Избранное</string>
+
+    <!-- Advanced Features -->
+    <string name="quran_default_title">Священный Коран</string>
+    <string name="downloading_soon">Функция загрузки скоро будет доступна</string>
+    <string name="choose_tafsir">Выберите тафсир</string>
+    <string name="tafseer_selected">Тафсир успешно выбран!</string>
+    <string name="play_error">Не удалось воспроизвести чтение</string>
+    <string name="remove_from_favorites">Страница удалена из избранного</string>
+    <string name="add_to_favorites">Страница добавлена в избранное</string>
+    <string name="repeat_settings">Настройки повтора</string>
+    <string name="repeat_assigned">Повтор %1$s (%2$d раз)</string>
+    <string name="share_tafsir">Поделиться тафсиром</string>
+    <string name="tafseer_surah_ayah">Сура %1$s — аят %2$d</string>
+    <string name="ok">ОК</string>
+    <string name="close">Закрыть</string>
+    <string name="select_qari">Выберите чтеца</string>
+    <string name="select_tafsir">Выберите тафсир</string>
+    <string name="ayah_options">Параметры аята</string>
+    <string name="copy">Копировать</string>
+    <string name="share_ayah">Поделиться</string>
+    <string name="tafsir">Тафсир</string>
+    <string name="play">Воспроизвести</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="stop">Остановить</string>
+    <string name="repeat">Повтор</string>
+    <string name="favorites">Избранное</string>
+    <string name="remove">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="last_visited_pages">Недавно просмотренные страницы</string>
+    <string name="no_last_pages">Недавних страниц нет</string>
+    <string name="go_to_page">Перейти к странице</string>
+    <string name="surah">Сура</string>
+    <string name="ayah">Аят</string>
+    <string name="surah_search_hint">Поиск по названию суры</string>
+    <string name="no_tafsir_available">Для этого аята тафсир недоступен</string>
+    <string name="juz">Джуз</string>
+    <string name="juz_start_page">Начинается с страницы %1$d</string>
+    <string name="juz_search_hint">Поиск по номеру или названию джуза</string>
+    <string name="menu_clear_all_bookmarks">🗑️ Очистить все закладки</string>
+    <string name="menu_clear_all_recent">🧹 Очистить историю</string>
+    <string name="recent_pages_title">🕓 Недавние страницы</string>
+    <string name="favorite_pages_title">⭐ Избранные страницы</string>
+
+    <string name="menu_last_read_juz">📌 Последний прочитанный джуз</string>
+    <string name="menu_jump_to_juz">Перейти к джузу</string>
+    <string name="menu_jump_to_surah">Перейти к суре</string>
+
+    <string name="reset_onboarding_button">Сбросить вступление</string>
+    <string name="reset_onboarding">Сбросить вступительное руководство</string>
+    <string name="choose_font">Выберите размер шрифта</string>
+    <string name="choose_language">Выберите язык</string>
+    <string name="arabic">Арабский</string>
+    <string name="english">Английский</string>
+    <string name="choose_theme">Выберите тему</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Системная</string>
+    <string name="font_small">Маленький</string>
+    <string name="font_medium">Средний</string>
+    <string name="font_large">Большой</string>
+    <string name="screen_options">Параметры экрана</string>
+    <string name="keep_screen_on">Не выключать экран во время чтения</string>
+    <string name="font_changed">Размер шрифта изменён</string>
+    <string name="settings_reset">Настройки сброшены!</string>
+
+    <string name="page">Страница</string>
+    <string name="favorite">Избранное</string>
+    <string name="clear_all_favorites">Очистить все избранные</string>
+    <string name="clear_all_recent">Очистить историю просмотра</string>
+    <string name="favorite_pages">Избранные страницы</string>
+    <string name="recent_pages">Недавние страницы</string>
+    <string name="no_favorites">Нет избранных страниц</string>
+    <string name="tap_to_open_page">Нажмите, чтобы открыть страницу</string>
+    <string name="all_favorites_cleared">Все избранные страницы удалены</string>
+    <string name="all_recent_cleared">История просмотра очищена</string>
+    <string name="bookmark_title">🕓 Страница %1$d</string>
+    <string name="favorite_page_hint">⭐ Страница %1$d</string>
+    <string name="favorite_page_item">⭐ Страница %1$d</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_search">Поиск</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_help">Помощь</string>
+    <string name="nav_about">О приложении</string>
+    <string name="nav_share_app">Поделиться приложением</string>
+    <string name="nav_share_qr">Поделиться через QR</string>
+    <string name="nav_rate_app">Оценить приложение</string>
+    <string name="nav_other_apps">Другие приложения</string>
+
+    <!-- Exit -->
+    <string name="exit_confirm_title">Подтверждение выхода</string>
+    <string name="exit_confirm_message">Вы действительно хотите выйти из приложения?</string>
+    <string name="yes">Да</string>
+
+    <!-- Version -->
+    <string name="version_loading">Проверка версии…</string>
+    <string name="version_format">Версия %1$s</string>
+    <string name="version_example">Версия 1.0.38</string>
+
+    <!-- Extra -->
+    <string name="search">Поиск</string>
+    <string name="search_empty">Найдите слово или фразу…</string>
+    <string name="search_results_placeholder">Результаты</string>
+    <string name="qr_code">QR-код</string>
+    <string name="share_qr_hint">Отсканируйте QR-код или поделитесь ссылкой</string>
+
+    <string name="header_developer_by">Разработчик: %1$s</string>
+    <string name="header_developer_by_example">Разработчик: Sadiq Hassan</string>
+    <string name="header_dates">%1$s • %2$s</string>
+    <string name="header_dates_example">7 июня 2025 • 10 зуль-хиджжа 1446</string>
+
+    <string name="share_message">Поделитесь приложением «Священный Коран», чтобы получить награду: %1$s</string>
+    <string name="share_chooser_title">Поделиться тафсиром</string>
+
+    <string name="hijri_placeholder">Хиджрийская дата</string>
+
+    <string name="action_toggle_page_bookmark">Сохранить страницу</string>
+    <string name="action_toggle_repeat">Повтор</string>
+    <string name="action_download_tafsirs">Загрузить тафсиры</string>
+    <string name="action_select_tafsir">Выбрать тафсир</string>
+
+    <string name="bulk_prefetch_start_msg">
+Пожалуйста, подождите, пока загружаются страницы мусхафа… Проведите это время в истигфаре и салавате на Пророка ﷺ.
+    </string>
+
+    <string name="download_ready">Готово к загрузке</string>
+    <string name="download_progress">%1$d%%</string>
+    <string name="download_now">Загрузить сейчас</string>
+    <string name="of_pages">%1$d / %2$d</string>
+    <string name="download">Загрузить</string>
+
+    <!-- Dialog -->
+    <string name="go_to_surah">Перейти к суре</string>
+    <string name="search_surah_hint">🔍 Поиск суры</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Juz -->
+    <string name="go_to_juz">Перейти к джузу</string>
+    <string name="search_juz_hint">🔍 Поиск джуза</string>
+
+    <!-- Repeat dialog -->
+    <string name="repeat_count_label">Количество повторов:</string>
+
+    <!-- Tafsir dialog -->
+    <string name="tafsir_ayah_title">Сура … — аят …</string>
+    <string name="tafsir_sample_ayah">بسم الله الرحمن الرحيم</string>
+    <string name="tafsir_text_placeholder">Здесь будет показан текст тафсира</string>
+
+    <!-- Pages download UI (for recitation) -->
+    <string name="pages_download_starting">Запуск загрузки чтения…</string>
+    <string name="pages_download_progress">Загрузка чтения — %1$d / %2$d</string>
+    <string name="pages_download_done">Загрузка чтения завершена.</string>
+    <string name="pages_download_failed">Не удалось загрузить чтение.</string>
+    <string name="pages_download_canceled">Загрузка чтения отменена.</string>
+
+    <!-- Repeat UI -->
+    <string name="repeat_settings_title">Настройки повтора</string>
+
+    <!-- Audio batch downloader -->
+    <string name="no_recitations_to_download">Нет доступных ссылок для загрузки.</string>
+    <string name="downloading_recitations">Идёт загрузка чтений…</string>
+    <string name="recitations_saved">Чтения сохранены!</string>
+    <string name="download_error">Произошла ошибка во время загрузки.</string>
+
+    <!-- BoundsRepo -->
+    <string name="ayah_text_unavailable">Текст этого аята недоступен</string>
+
+    <string name="qari_icon">Значок чтеца</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="qari_selected_toast">Выбран %1$s</string>
+
+    <string name="choose_qari_title">Выберите чтеца</string>
+
+    <string name="choose_language_title">Выберите язык приложения</string>
+    <string name="choose_language_subtitle">Вы сможете изменить язык позже в настройках</string>
+    <string name="continue_btn">Продолжить</string>
+    <string name="device_language_option">Использовать язык устройства</string>
+
+    <!-- ✅ Language names (native forms) -->
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_english">English</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_bengali">বাংলা</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="lang_chinese">中文</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_korean">한국어</string>
+    <string name="lang_portuguese">Português</string>
+    <string name="lang_italian">Italiano</string>
+    <string name="lang_swahili">Kiswahili</string>
+    <string name="lang_thai">ไทย</string>
+
+    <string name="continue_text">Продолжить</string>
+    <string name="language_selection_title">Выбор языка</string>
+
+    <!-- Search screen -->
+    <string name="search_title">Поиск</string>
+    <string name="search_button">Найти</string>
+    <string name="tab_surah">Суры</string>
+    <string name="tab_fav">Избранное</string>
+    <string name="update_preparing">Проверка обновления…</string>
+    <string name="update_downloading">Загрузка обновления…</string>
+    <string name="update_downloaded_tap_to_restart">Загрузка завершена — нажмите, чтобы перезапустить и установить обновление</string>
+    <string name="update_installing">Установка обновления…</string>
+    <string name="update_available_message">Доступно новое обновление. Обновите приложение до последней версии.</string>
+    <string name="search_hint">Введите текст для поиска…</string>
+    <string name="search_counter_format">Количество результатов: %1$d</string>
+    <string name="no_internet_short">Нет подключения к Интернету</string>
+
+    <!-- عنوان الشريط المتحرّك أثناء التنزيل -->
+    <string name="pages_download_title_marquee">
+Пожалуйста, подождите, идёт загрузка страниц мусхафа… Наполните это время истигфаром и салаватом на Пророка ﷺ.
+    </string>
+
+    <!-- نصوص عامة -->
+    <string name="downloading_quran_pages">Загрузка чтения…</string>
+    <string name="remaining_time">Оставшееся время: …</string>
+    <string name="please_rate_app">Пожалуйста, оцените приложение, чтобы помочь нам улучшиться 🌟</string>
+    <string name="juz_format">Джуз %1$d</string>
+
+    <!-- أزرار -->
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_ok">ОК</string>
+    <string name="loading">Загрузка…</string>
+    <string name="tafsir_not_found">Тафсир не найден.</string>
+    <string name="tafsir_title_fmt">Сура %1$d — аят %2$d</string>
+    <string name="play_ayah">Воспроизвести аят</string>
+
+    <!-- النصوص المفقودة -->
+    <string name="play_pause">Воспроизвести/Пауза</string>
+    <string name="reader">Чтец</string>
+    <string name="downloading_ellipsis">Загрузка…</string>
+    <string name="repeat_off">Повтор выключен</string>
+    <string name="repeat_page">Повторять страницу</string>
+    <string name="repeat_ayah">Повторять один аят</string>
+    <string name="bookmark_page">Сохранить страницу</string>
+
+    <string name="toast_repeat_off">Повтор отключён</string>
+    <string name="toast_repeat_page">Повтор страницы включён</string>
+    <string name="toast_repeat_ayah">Повтор аята включён</string>
+    <string name="audio_error">Не удалось воспроизвести чтение</string>
+    <string name="playing_online_fallback">...</string>
+
+    <string name="theme">Тема</string>
+
+    <!-- الخط -->
+    <string name="font_size">Размер шрифта</string>
+
+    <!-- التخزين للتلاوات -->
+    <string name="recitation_storage_title">Место сохранения чтений</string>
+    <string name="recitation_storage_internal">Внутренняя память (папка приложения)</string>
+    <string name="recitation_storage_external">Внешняя папка, выбранная пользователем</string>
+    <string name="pick_external_folder">Выберите внешнюю папку для загрузок</string>
+    <string name="recitation_storage_summary_internal">Текущее место: внутренняя память приложения (закрытая папка).</string>
+
+    <!-- أخرى -->
+    <string name="reset_settings">Сбросить настройки</string>
+
+    <!-- إشعارات التنزيل -->
+    <string name="notif_download_title">Загрузка чтения</string>
+    <string name="notif_download_progress">Аяты %1$d / %2$d</string>
+    <string name="notif_time_left">Оставшееся время: %1$s</string>
+    <string name="notif_pause">Пауза</string>
+    <string name="notif_resume">Продолжить</string>
+    <string name="notif_stop">Остановить</string>
+    <string name="background_will_continue">Загрузка продолжится в фоновом режиме.</string>
+    <string name="update_channel_name">Обновления приложения</string>
+    <string name="update_channel_desc">Уведомления о доступности новой версии</string>
+    <string name="update_available_title">Доступно новое обновление</string>
+
+    <string name="action_open_store">Открыть магазин</string>
+    <string name="click_to_open_page">Нажмите, чтобы открыть страницу</string>
+    <string name="tap_to_open">Нажмите, чтобы открыть</string>
+    <string name="delete">Удалить</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="mic">Микрофон</string>
+
+    <string-array name="qari_qualities">
+        <item>MP3 • 128kbps</item>
+        <item>MP3 • 192kbps</item>
+        <item>MP3 • HQ</item>
+    </string-array>
+
+    <string name="dl_starting_now">Начинается загрузка чтений…</string>
+    <string name="dl_preparing_list">Подготовка списка… (всего: %1$d)</string>
+    <string name="dl_progress">Загрузка чтений — %1$d / %2$d</string>
+    <string name="dl_done">Завершено: %1$d / %2$d</string>
+
+    <string name="deleted_all_favorites">Все сохранённые страницы удалены</string>
+    <string name="recent_cleared">История просмотра удалена</string>
+
+    <string name="theme_sun">☀️</string>
+    <string name="theme_moon">🌙</string>
+    <string name="page_label">Страница</string>
+    <string name="hint_open_page">Нажмите, чтобы перейти к странице</string>
+    <!-- %1$s = page_label ، %2$d = رقم الصفحة -->
+    <string name="recent_page_title">🕓 %1$s %2$d</string>
+
+</resources>

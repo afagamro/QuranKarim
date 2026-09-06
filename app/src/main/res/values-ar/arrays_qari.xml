@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>مشاري راشد العفاسي</item>
+        <item>عبدالرحمن السديس</item>
+        <item>سعود الشريم</item>
+        <item>ماهر المعيقلي</item>
+        <item>فارس عباد</item>
+        <item>أحمد العجمي</item>
+        <item>هاني الرفاعي</item>
+        <item>علي الحذيفي</item>
+
+        <item>عبدالباسط</item>
+
+        <item>المنشاوي</item>
+
+        <item>محمود خليل الحصري</item>
+
+        <item>عبدالله الجهني</item>
+        <item>عبدالله بصفر</item>
+        <item>عبدالله مطرود</item>
+        <item>علي جابر</item>
+        <item>أيمن سويد</item>
+        <item>صلاح البدير</item>
+        <item>صلاح بوخاطر</item>
+        <item>ياسر الدوسري</item>
+        <item>ياسر سلامة</item>
+        <item>سهل ياسين</item>
+        <item>ناصر القطامي</item>
+
+        <item>إبراهيم الأخضر</item>
+        <item>أكرم العلاقمي</item>
+        <item>علي حجاج السويسي</item>
+        <item>محمد أيوب</item>
+        <item>محمد جبريل</item>
+        <item>محمد محمود الطبلاوي</item>
+        <item>محسن القاسم</item>
+        <item>مصطفى إسماعيل</item>
+        <item>نبيل الرفاعي</item>
+        <item>خليفة الطنيجي</item>
+        <item>سعود الغامدي</item>
+        <item>كريم منصوري</item>
+        <item>عزيز عليلي</item>
+        <item>أبو بكر الشاطري</item>
+        <item>أحمد نعينع</item>
+        <item>خالد عبدالله القحطاني</item>
+        <item>محمد عبدالكريم</item>
+        <item>شهريار برهيزكار</item>
+        <item>محمود علي البنا</item>
+        <item>محمد اللحيدان</item>
+        <item>إدريس أبكر</item>
+        <item>خالد الجليل</item>
+        <item>رعد محمد الكردي</item>
+        <item>أحمد النفيس</item>
+        <item>صلاح الهاشم</item>
+        <item>وليد النائحي</item>
+        <item>أحمد الطرابلسي</item>
+        <item>عبدالرحمن العوسي</item>
+        <item>عبدالرحمن الشحات</item>
+        <item>عبدالعزيز الزهراني</item>
+        <item>عبدالودود حنيف</item>
+        <item>محمود الرفاعي</item>
+        <item>الزين محمد أحمد</item>
+        <item>نورين محمد صديق</item>
+        <item>أحمد محمد طاهر</item>
+    </string-array>
+</resources>

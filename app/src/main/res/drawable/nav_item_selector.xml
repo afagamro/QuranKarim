@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- عند الضغط -->
+    <item android:state_pressed="true">
+        <color android:color="#22C4A568"/> <!-- ذهبي شفاف -->
+    </item>
+
+    <!-- عند التحديد -->
+    <item android:state_checked="true">
+        <color android:color="#22C4A568"/>
+    </item>
+
+    <!-- الوضع الطبيعي -->
+    <item>
+        <color android:color="@android:color/transparent"/>
+    </item>
+
+</selector>

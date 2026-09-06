@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>মিশারি রাশিদ আল-আফাসি</item>
+        <item>আবদুর রহমান আস-সুদাইস</item>
+        <item>সাউদ আশ-শুরাইম</item>
+        <item>মাহের আল-মুয়াইকলি</item>
+        <item>ফারেস আব্বাদ</item>
+        <item>আহমদ আল-আজমি</item>
+        <item>হানি আর-রিফাই</item>
+        <item>আলি আল-হুথাইফি</item>
+
+        <item>আব্দুল বাসিত</item>
+
+        <item>মিনশাওয়ি</item>
+
+        <item>মাহমুদ খালিল আল-হুসারি</item>
+
+        <item>আবদুল্লাহ আল-জুহানি</item>
+        <item>আবদুল্লাহ বাসফার</item>
+        <item>আবদুল্লাহ মাতরুদ</item>
+        <item>আলি জাবের</item>
+        <item>আইমান সোয়াইদ</item>
+        <item>সালাহ আল-বুদাইর</item>
+        <item>সালাহ আবু আরাফাহ/বুখাতির</item>
+        <item>ইয়াসির আল-দোসারি</item>
+        <item>ইয়াসির সালামাহ</item>
+        <item>সহল ইয়াসিন</item>
+        <item>নাসির আল-কাতামি</item>
+
+        <item>ইব্রাহিম আল-আখদার</item>
+        <item>আকরাম আল-আলাকমি</item>
+        <item>আলি হাজ্জাজ আস-সুসি</item>
+        <item>মুহাম্মদ আয়্যুব</item>
+        <item>মুহাম্মদ জিবরিল</item>
+        <item>মুহাম্মদ মাহমুদ আত-তাবলাবি</item>
+        <item>মোহসেন আল-কাসিম</item>
+        <item>মুস্তাফা ইসমাইল</item>
+        <item>নবিল আর-রিফাই</item>
+        <item>খলিফা আত-তুনাইজি</item>
+        <item>সাউদ আল-ঘামদি</item>
+        <item>করিম মানসুরি</item>
+        <item>আজিজ আলিলি</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

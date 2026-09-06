@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Information -->
+    <string name="app_name">Al-Qur\'an Al-Karim</string>
+    <string name="home">Beranda</string>
+    <string name="settings_and_support">Pengaturan &amp; bantuan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="help">Bantuan</string>
+    <string name="info">Tentang aplikasi</string>
+    <string name="share_and_rate">Bagikan &amp; beri nilai</string>
+    <string name="share">Bagikan aplikasi</string>
+    <string name="share_qr">Bagikan lewat QR</string>
+    <string name="rate_app">Beri nilai aplikasi</string>
+    <string name="other_apps">Aplikasi lainnya</string>
+    <string name="exit">Keluar</string>
+
+    <string name="about_app_description">
+Al-Qur\'an Al-Karim – Mushaf lengkap dengan 19 bahasa dan lebih dari 55 qari dunia
+
+Aplikasi "Al-Qur'an Al-Karim" adalah sahabat terbaik Anda untuk tilawah, menghafal, dan tadabbur. Menggabungkan keindahan mushaf cetak dengan kemudahan teknologi modern untuk menghadirkan pengalaman spiritual yang menyeluruh.
+
+✨ Fitur utama:
+
+📖 Tampilan mushaf lengkap dengan khat Utsmani, dukungan perbesaran (zoom) dan rotasi layar untuk kenyamanan membaca dalam mode potret maupun lanskap.
+
+🎧 Bilah tilawah dinamis yang menemani Anda saat mendengarkan, dengan penyorotan ayat yang sedang dibaca secara langsung (real-time).
+
+🔁 Alat bantu hafalan &amp; pengulangan: pilih satu ayat atau rentang ayat untuk diulang berkali-kali demi hafalan dan murajaah yang lebih mudah.
+
+🌍 Mendukung 19 bahasa sehingga mudah digunakan oleh Muslim di seluruh dunia.
+
+🎙️ Lebih dari 55 qari terkenal (Al-Afasy, As-Sudais, As-Syuraim, Al-Muaiqly, Abdul Basit, Al-Minshawi, Al-Ajmi dan lainnya).
+
+🕌 Beberapa kitab tafsir (Jalalayn, Sa’di, Ibnu Katsir, Qurtubi).
+
+⭐ Favorit &amp; halaman terakhir: simpan posisi bacaan dan halaman penting Anda untuk kembali dengan cepat.
+
+🔎 Pencarian kuat untuk menemukan ayat atau kata apa pun secara instan.
+
+🌙 Mode malam untuk kenyamanan membaca dalam cahaya redup.
+
+🔔 Pengingat harian untuk zikir dan wirid Al-Qur’an.
+
+💡 Pengalaman tanpa iklan, desain bersih dan elegan, serta performa yang halus.
+
+🌟 Mengapa aplikasi ini?
+
+Karena ini bukan sekadar mushaf digital, tetapi alat Al-Qur’an yang lengkap untuk tilawah, hafalan, dan tadabbur dengan dukungan berbagai bahasa dan qari — pilihan tepat untuk Muslim di seluruh dunia.
+
+📲 Unduh sekarang dan mulailah perjalanan Anda bersama Al-Qur’an — tilawah, hafalan, dan tadabbur.
+
+Holy Quran – Complete Mushaf with 19 Languages, 55+ Qaris, and Advanced Recitation Tools
+
+The “Holy Quran” app is your ultimate companion for recitation, memorization, and reflection. It combines the elegance of the Mushaf with modern technology for a complete spiritual journey.
+    </string>
+
+    <string name="help_title">Bantuan</string>
+    <string name="help_content">Untuk bantuan atau pertanyaan, silakan hubungi kami melalui email: 121yu122@gmail.com</string>
+    <string name="app_logo">Logo aplikasi</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="light">Terang</string>
+    <string name="dark">Gelap</string>
+    <string name="system_default">Bawaan sistem</string>
+    <string name="choose_font_size">Pilih ukuran huruf</string>
+    <string name="scan_qr">Pindai kode QR untuk mengunduh aplikasi</string>
+
+    <string name="navigation_drawer_open">Buka menu navigasi</string>
+    <string name="navigation_drawer_close">Tutup menu navigasi</string>
+
+    <!-- Tabs -->
+    <string name="tab_surahs">Surah</string>
+    <string name="tab_juz">Juz</string>
+    <string name="tab_favorites">Favorit</string>
+
+    <!-- Advanced Features -->
+    <string name="quran_default_title">Al-Qur\'an Al-Karim</string>
+    <string name="downloading_soon">Fitur unduh segera hadir</string>
+    <string name="choose_tafsir">Pilih tafsir</string>
+    <string name="tafseer_selected">Tafsir berhasil dipilih!</string>
+    <string name="play_error">Tilawah tidak dapat diputar</string>
+    <string name="remove_from_favorites">Halaman dihapus dari favorit</string>
+    <string name="add_to_favorites">Halaman ditambahkan ke favorit</string>
+    <string name="repeat_settings">Pengaturan pengulangan</string>
+    <string name="repeat_assigned">Ulangi %1$s (%2$d kali)</string>
+    <string name="share_tafsir">Bagikan tafsir</string>
+    <string name="tafseer_surah_ayah">Surah %1$s - Ayat %2$d</string>
+    <string name="ok">OK</string>
+    <string name="close">Tutup</string>
+    <string name="select_qari">Pilih qari</string>
+    <string name="select_tafsir">Pilih tafsir</string>
+    <string name="ayah_options">Opsi ayat</string>
+    <string name="copy">Salin</string>
+    <string name="share_ayah">Bagikan</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="play">Putar</string>
+    <string name="pause">Jeda</string>
+    <string name="resume">Lanjutkan</string>
+    <string name="stop">Hentikan</string>
+    <string name="repeat">Ulangi</string>
+    <string name="favorites">Favorit</string>
+    <string name="remove">Hapus</string>
+    <string name="add">Tambahkan</string>
+    <string name="last_visited_pages">Halaman terakhir dikunjungi</string>
+    <string name="no_last_pages">Tidak ada halaman terbaru</string>
+    <string name="go_to_page">Pergi ke halaman</string>
+    <string name="surah">Surah</string>
+    <string name="ayah">Ayat</string>
+    <string name="surah_search_hint">Cari nama surah</string>
+    <string name="no_tafsir_available">Tidak ada tafsir untuk ayat ini</string>
+    <string name="juz">Juz</string>
+    <string name="juz_start_page">Mulai dari halaman %1$d</string>
+    <string name="juz_search_hint">Cari berdasarkan nomor atau nama juz</string>
+    <string name="menu_clear_all_bookmarks">🗑️ Hapus semua penanda</string>
+    <string name="menu_clear_all_recent">🧹 Hapus riwayat</string>
+    <string name="recent_pages_title">🕓 Halaman terbaru</string>
+    <string name="favorite_pages_title">⭐ Halaman favorit</string>
+
+    <string name="menu_last_read_juz">📌 Juz terakhir dibaca</string>
+    <string name="menu_jump_to_juz">Lompat ke juz</string>
+    <string name="menu_jump_to_surah">Lompat ke surah</string>
+
+    <string name="reset_onboarding_button">Atur ulang pengenalan</string>
+    <string name="reset_onboarding">Atur ulang pengenalan aplikasi</string>
+    <string name="choose_font">Pilih ukuran huruf</string>
+    <string name="choose_language">Pilih bahasa</string>
+    <string name="arabic">Arab</string>
+    <string name="english">Inggris</string>
+    <string name="choose_theme">Pilih tema</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="theme_system">Bawaan sistem</string>
+    <string name="font_small">Kecil</string>
+    <string name="font_medium">Sedang</string>
+    <string name="font_large">Besar</string>
+    <string name="screen_options">Opsi layar</string>
+    <string name="keep_screen_on">Jaga layar tetap menyala saat membaca</string>
+    <string name="font_changed">Ukuran huruf telah diubah</string>
+    <string name="settings_reset">Pengaturan telah diatur ulang!</string>
+
+    <string name="page">Halaman</string>
+    <string name="favorite">Favorit</string>
+    <string name="clear_all_favorites">Hapus semua favorit</string>
+    <string name="clear_all_recent">Hapus riwayat halaman</string>
+    <string name="favorite_pages">Halaman favorit</string>
+    <string name="recent_pages">Halaman terbaru</string>
+    <string name="no_favorites">Tidak ada halaman favorit</string>
+    <string name="tap_to_open_page">Ketuk untuk membuka halaman</string>
+    <string name="all_favorites_cleared">Semua halaman favorit telah dihapus</string>
+    <string name="all_recent_cleared">Riwayat halaman telah dihapus</string>
+    <string name="bookmark_title">🕓 Halaman %1$d</string>
+    <string name="favorite_page_hint">⭐ Halaman %1$d</string>
+    <string name="favorite_page_item">⭐ Halaman %1$d</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_search">Cari</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_help">Bantuan</string>
+    <string name="nav_about">Tentang</string>
+    <string name="nav_share_app">Bagikan aplikasi</string>
+    <string name="nav_share_qr">Bagikan lewat QR</string>
+    <string name="nav_rate_app">Beri nilai aplikasi</string>
+    <string name="nav_other_apps">Aplikasi lainnya</string>
+
+    <!-- Exit -->
+    <string name="exit_confirm_title">Konfirmasi keluar</string>
+    <string name="exit_confirm_message">Apakah Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="yes">Ya</string>
+
+    <!-- Version -->
+    <string name="version_loading">Memeriksa versi…</string>
+    <string name="version_format">Versi %1$s</string>
+    <string name="version_example">Versi 1.0.38</string>
+
+    <!-- Extra -->
+    <string name="search">Cari</string>
+    <string name="search_empty">Cari sebuah kata atau frasa…</string>
+    <string name="search_results_placeholder">Hasil</string>
+    <string name="qr_code">Kode QR</string>
+    <string name="share_qr_hint">Pindai kode QR atau bagikan tautan</string>
+
+    <string name="header_developer_by">Oleh: %1$s</string>
+    <string name="header_developer_by_example">Oleh: Sadiq Hassan</string>
+    <string name="header_dates">%1$s • %2$s</string>
+    <string name="header_dates_example">7 Juni 2025 • 10 Dzulhijjah 1446</string>
+
+    <string name="share_message">Bagikan aplikasi Al-Qur\'an Al-Karim untuk meraih pahala: %1$s</string>
+    <string name="share_chooser_title">Bagikan tafsir</string>
+
+    <string name="hijri_placeholder">Tanggal Hijriah</string>
+
+    <string name="action_toggle_page_bookmark">Simpan halaman</string>
+    <string name="action_toggle_repeat">Pengulangan</string>
+    <string name="action_download_tafsirs">Unduh tafsir</string>
+    <string name="action_select_tafsir">Pilih tafsir</string>
+
+    <string name="bulk_prefetch_start_msg">
+Harap tunggu, halaman mushaf sedang diunduh… Isi waktu Anda dengan istighfar dan shalawat kepada Nabi ﷺ
+    </string>
+
+    <string name="download_ready">Siap diunduh</string>
+    <string name="download_progress">%1$d%%</string>
+    <string name="download_now">Unduh sekarang</string>
+    <string name="of_pages">%1$d / %2$d</string>
+    <string name="download">Unduh</string>
+
+    <!-- Dialog -->
+    <string name="go_to_surah">Pergi ke surah</string>
+    <string name="search_surah_hint">🔍 Cari surah</string>
+    <string name="cancel">Batal</string>
+
+    <!-- Juz -->
+    <string name="go_to_juz">Pergi ke juz</string>
+    <string name="search_juz_hint">🔍 Cari juz</string>
+
+    <!-- Repeat dialog -->
+    <string name="repeat_count_label">Jumlah pengulangan:</string>
+
+    <!-- Tafsir dialog -->
+    <string name="tafsir_ayah_title">Surah … - Ayat …</string>
+    <string name="tafsir_sample_ayah">بسم الله الرحمن الرحيم</string>
+    <string name="tafsir_text_placeholder">Teks tafsir akan tampil di sini</string>
+
+    <!-- Pages download UI (for recitation) -->
+    <string name="pages_download_starting">Memulai pengunduhan tilawah…</string>
+    <string name="pages_download_progress">Mengunduh tilawah — %1$d / %2$d</string>
+    <string name="pages_download_done">Tilawah berhasil diunduh.</string>
+    <string name="pages_download_failed">Tilawah gagal diunduh.</string>
+    <string name="pages_download_canceled">Pengunduhan tilawah dibatalkan.</string>
+
+    <!-- Repeat UI -->
+    <string name="repeat_settings_title">Pengaturan pengulangan</string>
+
+    <!-- Audio batch downloader -->
+    <string name="no_recitations_to_download">Tidak ada tilawah untuk diunduh.</string>
+    <string name="downloading_recitations">Mengunduh tilawah…</string>
+    <string name="recitations_saved">Tilawah telah disimpan!</string>
+    <string name="download_error">Terjadi kesalahan saat mengunduh.</string>
+
+    <!-- BoundsRepo -->
+    <string name="ayah_text_unavailable">Teks ayat tidak tersedia</string>
+
+    <string name="qari_icon">Ikon qari</string>
+    <string name="change_language">Ubah bahasa</string>
+    <string name="qari_selected_toast">%1$s dipilih</string>
+
+    <string name="choose_qari_title">Pilih qari</string>
+
+    <string name="choose_language_title">Pilih bahasa aplikasi</string>
+    <string name="choose_language_subtitle">Anda dapat mengubah bahasa nanti dari menu pengaturan</string>
+    <string name="continue_btn">Lanjutkan</string>
+    <string name="device_language_option">Gunakan bahasa perangkat</string>
+
+    <!-- Language names -->
+    <string name="lang_arabic">العربية</string>
+    <string name="lang_english">English</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_indonesian">Bahasa Indonesia</string>
+    <string name="lang_urdu">اردو</string>
+    <string name="lang_persian">فارسی</string>
+    <string name="lang_bengali">বাংলা</string>
+    <string name="lang_german">Deutsch</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_french">Français</string>
+    <string name="lang_russian">Русский</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="lang_chinese">中文</string>
+    <string name="lang_japanese">日本語</string>
+    <string name="lang_korean">한국어</string>
+    <string name="lang_portuguese">Português</string>
+    <string name="lang_italian">Italiano</string>
+    <string name="lang_swahili">Kiswahili</string>
+    <string name="lang_thai">ไทย</string>
+
+    <string name="continue_text">Lanjutkan</string>
+    <string name="language_selection_title">Pilih bahasa</string>
+
+    <!-- Search screen -->
+    <string name="search_title">Pencarian</string>
+    <string name="search_button">Cari</string>
+    <string name="tab_surah">Surah</string>
+    <string name="tab_fav">Favorit</string>
+    <string name="update_preparing">Memeriksa pembaruan…</string>
+    <string name="update_downloading">Mengunduh pembaruan…</string>
+    <string name="update_downloaded_tap_to_restart">Pembaruan selesai — ketuk untuk memulai ulang dan memasang pembaruan</string>
+    <string name="update_installing">Memasang pembaruan…</string>
+    <string name="update_available_message">Pembaruan baru tersedia. Silakan perbarui ke versi terbaru.</string>
+    <string name="search_hint">Masukkan teks untuk dicari…</string>
+    <string name="search_counter_format">Jumlah hasil: %1$d</string>
+    <string name="no_internet_short">Tidak ada koneksi internet</string>
+
+    <!-- Marquee during download -->
+    <string name="pages_download_title_marquee">
+Harap tunggu, halaman mushaf sedang diunduh… Isi waktu Anda dengan istighfar dan shalawat kepada Nabi ﷺ
+    </string>
+
+    <!-- General texts -->
+    <string name="downloading_quran_pages">Mengunduh tilawah…</string>
+    <string name="remaining_time">Sisa waktu: …</string>
+    <string name="please_rate_app">Silakan beri nilai aplikasi ini untuk membantu kami meningkatkannya 🌟</string>
+    <string name="juz_format">Juz %1$d</string>
+
+    <!-- Buttons -->
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_ok">OK</string>
+    <string name="loading">Memuat…</string>
+    <string name="tafsir_not_found">Tafsir tidak ditemukan.</string>
+    <string name="tafsir_title_fmt">Surah %1$d - Ayat %2$d</string>
+    <string name="play_ayah">Putar ayat</string>
+
+    <!-- Extra playback texts -->
+    <string name="play_pause">Putar / Jeda</string>
+    <string name="reader">Qari</string>
+    <string name="downloading_ellipsis">Mengunduh…</string>
+    <string name="repeat_off">Pengulangan nonaktif</string>
+    <string name="repeat_page">Ulangi halaman</string>
+    <string name="repeat_ayah">Ulangi satu ayat</string>
+    <string name="bookmark_page">Simpan halaman</string>
+
+    <string name="toast_repeat_off">Pengulangan telah dinonaktifkan</string>
+    <string name="toast_repeat_page">Pengulangan halaman diaktifkan</string>
+    <string name="toast_repeat_ayah">Pengulangan ayat diaktifkan</string>
+    <string name="audio_error">Tilawah tidak dapat diputar</string>
+    <string name="playing_online_fallback">...</string>
+
+    <string name="theme">Tema</string>
+
+    <!-- Font -->
+    <string name="font_size">Ukuran huruf</string>
+
+    <!-- Recitation storage -->
+    <string name="recitation_storage_title">Lokasi penyimpanan tilawah</string>
+    <string name="recitation_storage_internal">Penyimpanan internal (folder aplikasi)</string>
+    <string name="recitation_storage_external">Folder eksternal (dipilih pengguna)</string>
+    <string name="pick_external_folder">Pilih folder eksternal untuk unduhan</string>
+    <string name="recitation_storage_summary_internal">Lokasi saat ini: penyimpanan internal aplikasi (folder privat).</string>
+
+    <!-- Other -->
+    <string name="reset_settings">Atur ulang pengaturan</string>
+
+    <!-- Download notifications -->
+    <string name="notif_download_title">Unduhan tilawah</string>
+    <string name="notif_download_progress">Ayat %1$d / %2$d</string>
+    <string name="notif_time_left">Sisa waktu: %1$s</string>
+    <string name="notif_pause">Jeda</string>
+    <string name="notif_resume">Lanjutkan</string>
+    <string name="notif_stop">Hentikan</string>
+    <string name="background_will_continue">Unduhan akan berlanjut di latar belakang.</string>
+    <string name="update_channel_name">Pembaruan aplikasi</string>
+    <string name="update_channel_desc">Notifikasi saat versi baru tersedia</string>
+    <string name="update_available_title">Pembaruan baru tersedia</string>
+
+    <string name="action_open_store">Buka Play Store</string>
+    <string name="click_to_open_page">Ketuk untuk membuka halaman</string>
+    <string name="tap_to_open">Ketuk untuk membuka</string>
+    <string name="delete">Hapus</string>
+    <string name="downloading">Mengunduh…</string>
+    <string name="mic">Mikrofon</string>
+
+    <string-array name="qari_qualities">
+        <item>MP3 • 128kbps</item>
+        <item>MP3 • 192kbps</item>
+        <item>MP3 • HQ</item>
+    </string-array>
+
+    <string name="dl_starting_now">Memulai pengunduhan tilawah…</string>
+    <string name="dl_preparing_list">Menyiapkan daftar… (total: %1$d)</string>
+    <string name="dl_progress">Mengunduh tilawah — %1$d / %2$d</string>
+    <string name="dl_done">Selesai: %1$d / %2$d</string>
+
+    <string name="deleted_all_favorites">Semua halaman tersimpan telah dihapus</string>
+    <string name="recent_cleared">Riwayat halaman telah dihapus</string>
+
+    <string name="theme_sun">☀️</string>
+    <string name="theme_moon">🌙</string>
+    <string name="page_label">Halaman</string>
+    <string name="hint_open_page">Ketuk untuk pergi ke halaman</string>
+    <!-- %1$s = page_label, %2$d = page number -->
+    <string name="recent_page_title">🕓 %1$s %2$d</string>
+
+</resources>

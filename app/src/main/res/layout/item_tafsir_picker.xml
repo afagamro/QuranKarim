@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tafsirChoiceCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="14dp"
+    android:layout_marginVertical="6dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardBackgroundColor="?attr/colorSurface"
+    app:cardCornerRadius="14dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true"
+    app:strokeColor="@color/qariItemBorder"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="14dp">
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:contentDescription="التفسير"
+            android:padding="8dp"
+            android:src="@drawable/ic_tafsir" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tafsirChoiceName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:textColor="@color/textPrimary"
+                android:textSize="18sp"
+                tools:text="تفسير السعدي" />
+
+            <TextView
+                android:id="@+id/tafsirChoiceSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:textColor="@color/textSecondary"
+                android:textSize="13sp"
+                tools:text="اضغط للاختيار وفتح التفسير" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/tafsirChoiceAction"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:contentDescription="إجراء"
+            android:padding="5dp"
+            android:src="@drawable/ic_tafsir"
+            app:tint="@color/sky_blue_dark" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

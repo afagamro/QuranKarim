@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>มิเชารี ราชิด อัล-อะฟาซี</item>
+        <item>อับดุรเราะห์มาน อัส-ซุดัยส์</item>
+        <item>ซาอูด อัล-ชุรอยม์</item>
+        <item>มาเฮอร์ อัล-มุอัยกิลี</item>
+        <item>ฟาเรส อับบัด</item>
+        <item>อาห์หมัด อัล-อาจ์มี</item>
+        <item>ฮานี อัล-ริฟาอี</item>
+        <item>อะลี อัล-ฮุไดย์ฟี</item>
+
+        <item>อับดุลบาซิต</item>
+
+        <item>มินชาวี</item>
+
+        <item>มาห์มูด คอลิล อัล-ฮุซารี</item>
+
+        <item>อับดุลลอฮ์ อัล-ญุฮานี</item>
+        <item>อับดุลลอฮ์ บัสฟัร</item>
+        <item>อับดุลลอฮ์ มัตรูด</item>
+        <item>อะลี ญาเบอร์</item>
+        <item>ไอย์มัน ซูวัยด์</item>
+        <item>ศอลาฮ์ อัล-บุดัยร์</item>
+        <item>ศอลาฮ์ บุคอฏีร</item>
+        <item>ยาเซอร์ อัล-ดอซซารี</item>
+        <item>ยาเซอร์ ศอลามะฮ์</item>
+        <item>ซาฮล์ ยาซีน</item>
+        <item>นาสเซอร์ อัล-กอตามี</item>
+
+        <item>อิบรอฮีม อัล-อัคดัร</item>
+        <item>อัครัม อัล-อะลักมี</item>
+        <item>อะลี ฮัจญาจ อัส-ซูซี</item>
+        <item>มุฮัมมัด อัยยูบ</item>
+        <item>มุฮัมมัด ญิบรีล</item>
+        <item>มุฮัมมัด มะห์มูด อัล-ตับลาวี</item>
+        <item>มุฮ์ซิน อัล-กอซิม</item>
+        <item>มุสตอฟา อิสมาอีล</item>
+        <item>นาบิล อัล-ริฟาอี</item>
+        <item>คอลีฟะฮ์ อัล-ตุนัยญี</item>
+        <item>ซาอูด อัล-ฆอมดี</item>
+        <item>การีม มันซูรี</item>
+        <item>อาซีซ อะลิลี</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

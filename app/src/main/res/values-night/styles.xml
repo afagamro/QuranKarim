@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- ========== القوائم المنبثقة Popup / Overflow ========== -->
+    <style name="Text.Quran.PopupItem" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Widget.Quran.PopupMenu" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@color/topBarBg</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="Widget.Quran.ListPopupWindow" parent="Widget.AppCompat.ListPopupWindow">
+        <item name="android:popupBackground">@color/topBarBg</item>
+    </style>
+
+    <style name="ThemeOverlay.Quran.Popup.Dark" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="colorOnSurface">@android:color/white</item>
+        <item name="popupMenuStyle">@style/Widget.Quran.PopupMenu</item>
+        <item name="listPopupWindowStyle">@style/Widget.Quran.ListPopupWindow</item>
+    </style>
+
+    <!-- ========== Overlay خاص بحوارات الماتيريال ========== -->
+    <style name="ThemeOverlay.Quran.Dialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog" />
+
+    <!-- ========== الثيم الرئيسي الليلي ========== -->
+    <style name="Theme.QuranKarim" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- ألوان أساسية -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/topBarBg</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <item name="colorSecondary">@color/quranGold</item>
+        <item name="colorSecondaryVariant">@color/quranGoldDark</item>
+        <item name="colorOnSecondary">@color/btn_primary_text</item>
+
+        <item name="colorSurface">@color/cardBackground</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+
+        <!-- أشرطة النظام -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- الخلفية العامة -->
+        <item name="android:windowBackground">@color/appBackground</item>
+
+        <!-- Toolbar / Tabs / Drawer -->
+        <item name="toolbarStyle">@style/Widget.Quran.Toolbar</item>
+        <item name="tabStyle">@style/Widget.Quran.TabLayout</item>
+        <item name="navigationViewStyle">@style/Widget.Quran.NavigationView</item>
+
+        <!-- حوارات -->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.Quran.Dialog</item>
+        <item name="actionBarTheme">@style/ThemeOverlay.Quran.Popup.Dark</item>
+
+        <!-- بطاقات -->
+        <item name="cardViewStyle">@style/CardViewStyle</item>
+
+        <!-- شاشة Splash (Android 12+) -->
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@color/appBackground</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@drawable/icon</item>
+        <item name="android:windowSplashScreenIconBackgroundColor" tools:targetApi="31">@android:color/transparent</item>
+
+    </style>
+
+    <!-- ثيم خاص لصفحة المصحف (أشرطة شفافة بالكامل) -->
+    <style name="Theme.QuranKarim.TransparentBars" parent="Theme.QuranKarim">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+    <!-- ========== Toolbar ========== -->
+    <style name="Widget.Quran.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@color/topBarBg</item>
+        <item name="titleTextColor">@color/toolbar_title</item>
+        <item name="subtitleTextColor">@color/textSecondary</item>
+        <item name="navigationIconTint">@color/colorOnPrimary</item>
+        <item name="popupTheme">@style/ThemeOverlay.Quran.Popup.Dark</item>
+    </style>
+
+    <!-- ========== TabLayout ========== -->
+    <style name="Widget.Quran.TabLayout" parent="Widget.Design.TabLayout">
+        <item name="android:background">@color/tabBackground</item>
+        <item name="tabIndicatorColor">@color/tabIndicatorStrong</item>
+        <item name="tabTextColor">@color/tabTextDefaultStrong</item>
+        <item name="tabSelectedTextColor">@color/tabTextSelectedStrong</item>
+        <item name="tabRippleColor">@color/skyBlueRipple</item>
+    </style>
+
+    <!-- ========== Navigation Drawer ========== -->
+    <style name="Widget.Quran.NavigationView" parent="Widget.MaterialComponents.NavigationView">
+        <item name="android:background">@color/drawerBackground</item>
+        <item name="itemTextColor">@color/nav_item_tint</item>
+        <item name="itemIconTint">@color/nav_item_tint</item>
+    </style>
+
+    <!-- ========== CardView ========== -->
+    <style name="CardViewStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/cardBackground</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">3dp</item>
+    </style>
+
+    <!-- ========== النصوص ========== -->
+    <style name="ToolbarTitleLarge" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_title</item>
+    </style>
+
+    <style name="ToolbarSubtitleSmall" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/textSecondary</item>
+    </style>
+
+    <!-- نص عنوان التولبار العادي -->
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@color/toolbar_title</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- صور دائرية -->
+    <style name="CircleImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <!-- values-night/styles.xml -->
+    <style name="ThemeOverlay.Quran.Popup" parent="ThemeOverlay.Material3">
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="colorOnSurface">@color/colorOnPrimary</item>
+        <item name="popupMenuStyle">@style/Widget.Quran.PopupMenu</item>
+    </style>
+
+</resources>

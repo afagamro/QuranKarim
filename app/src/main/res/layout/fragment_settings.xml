@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settingsRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:padding="16dp"
+    android:textDirection="rtl">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- شريط علوي داخل الفراجمنت -->
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/fragment_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorSurface"
+            android:title="@string/settings_title" />
+
+        <!-- ===== حجم الخط ===== -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/font_size"
+            android:textStyle="bold"
+            android:layout_marginTop="16dp" />
+
+        <com.google.android.material.slider.Slider
+            android:id="@+id/fontSlider"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:valueFrom="0"
+            android:valueTo="5"
+            android:stepSize="1" />
+
+        <!-- ===== نوع الشبكة للتحميل ===== -->
+        <TextView
+            android:id="@+id/networkTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="نوع الشبكة للتحميل"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp" />
+
+        <RadioGroup
+            android:id="@+id/networkGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/net_wifi_only"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="واي-فاي فقط" />
+
+            <RadioButton
+                android:id="@+id/net_mobile_only"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="البيانات فقط" />
+
+            <RadioButton
+                android:id="@+id/net_any"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="أي شبكة (واي-فاي أو بيانات)" />
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/networkSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="التفضيل الحالي: —"
+            android:layout_marginTop="8dp" />
+
+        <!-- ===== التخزين للتلاوات ===== -->
+        <TextView
+            android:id="@+id/storageTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/recitation_storage_title"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp" />
+
+        <RadioGroup
+            android:id="@+id/storageGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/storage_internal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/recitation_storage_internal" />
+
+            <RadioButton
+                android:id="@+id/storage_external"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/recitation_storage_external" />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/pickExternalFolderButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/pick_external_folder"
+            android:layout_marginTop="8dp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/storageSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/recitation_storage_summary_internal"
+            android:layout_marginTop="8dp" />
+
+        <!-- ===== إعادة الضبط ===== -->
+        <Button
+            android:id="@+id/resetOnboardingButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/reset_settings"
+            android:layout_marginTop="20dp" />
+
+        <!-- QR (اختياري) -->
+        <ImageView
+            android:id="@+id/qrImage"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:contentDescription="@string/qr_code"
+            android:src="@drawable/ic_qr_placeholder" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="32dp" />
+
+    </LinearLayout>
+</ScrollView>

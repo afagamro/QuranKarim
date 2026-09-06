@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 🖤 خلفيات عامة -->
+    <color name="colorBackground">#0F1010</color>
+    <color name="appBackground">#0F1010</color>
+    <color name="pageBackground">#0F1010</color>
+    <color name="dividerColor">#223033</color>
+
+    <color name="colorAccent">#C4A568</color>
+
+    <color name="tabBackground">#1C1C1C</color>
+    <color name="tabIndicator">#C4A568</color>
+    <color name="tabTextSelected">#FFD782</color>
+    <color name="tabTextUnselected">#AAAAAA</color>
+
+    <!-- ✨ الذهبي الموحد -->
+    <color name="quranGoldLight">#C4A568</color>
+    <color name="quranGoldDark">#A88B57</color>
+
+    <!-- 🩶 النصوص -->
+    <color name="hintText">#AAB3B6</color>
+    <color name="menu_overflow_text">#FFFFFF</color>
+    <color name="toolbar_title">#EDE6D6</color>
+
+    <!-- 🪶 بطاقات (السور) -->
+    <color name="surahListBackground">#0E0E0E</color>
+
+    <color name="surahBadgeBg">#2A2316</color>
+
+
+    <!-- 🪶 بطاقات (الأجزاء) -->
+    <color name="juzListBackground">#0E0E0E</color>
+    <color name="juzBadgeBg">#333333</color>
+
+    <!-- 🎙️ بطاقات (القراء) -->
+    <color name="qariItemBackground">#1A1A1A</color>
+    <color name="qariItemBorder">#262626</color>
+    <color name="qariNameColor">@color/textPrimary</color>
+    <color name="qariSubColor">@color/textSecondary</color>
+    <color name="qariIconTint">#E3C98A</color>
+    <color name="qariBadgeBg">#333333</color>
+    <color name="onQariBadge">#F4ECDC</color>
+    <color name="qariRipple">#33F4ECDC</color>
+
+    <!-- 📖 بانر الآية -->
+    <color name="glassBannerBackground">#1A1A1A</color>
+    <color name="ayahBannerBackground">#0F1010</color>
+
+    <!-- 🎧 عناصر التحكم الصوتي -->
+    <color name="audio_controls_bg">#151313</color>
+
+    <!-- 💬 الحوارات -->
+    <color name="dialogBackground">#151717</color>
+    <color name="dialog_surface">#151717</color>
+    <color name="dialog_border">#26FFFFFF</color>
+    <color name="dialog_title">#EDEDED</color>
+    <color name="dialog_body">#CFD8DC</color>
+    <color name="dialogText">#FFFFFF</color>
+    <color name="dialogButton">#2A2A2A</color>
+    <color name="dialogButtonText">#FFFFFF</color>
+    <color name="tafsirTitle">#FFFFFF</color>
+    <color name="tafsirAyah">#C4A568</color>
+    <color name="tafsirText">#B0B0B0</color>
+
+    <!-- 🧩 الأزرار -->
+    <color name="btn_primary_bg">#C4A568</color>
+    <color name="btn_primary_text">#1E1A13</color>
+    <color name="btn_primary_ripple">#33C4A568</color>
+    <color name="btn_danger_bg">#8E0000</color>
+    <color name="btn_danger_text">#FFFFFF</color>
+    <color name="tonal_btn_bg">#2A2F2A</color>
+    <color name="tonal_btn_stroke">#33FFFFFF</color>
+
+    <!-- 🌙 التراكب -->
+    <color name="overlay_panel_bg">#F01A1A1A</color>
+    <color name="overlay_panel_stroke">#26FFFFFF</color>
+    <color name="overlay_text">#FFFFFFFF</color>
+    <color name="overlay_icon_tint">#FFFFFFFF</color>
+    <color name="overlay_ripple">#33C4A568</color>
+    <color name="scrim">#99000000</color>
+
+    <!-- متفرقات -->
+    <color name="optionBackground">#171919</color>
+    <color name="optionIcon">#FFFFFF</color>
+    <color name="optionBlue">#C4A568</color>
+    <color name="result_bg">#1AFFFFFF</color>
+    <color name="dialog_shadow">#B0000000</color>
+    <color name="skyBlueRipple">#22C4A568</color>
+    <color name="gold">#D4AF37</color>
+    <color name="gold_dark">#B68E24</color>
+
+    <!-- لو نجمة داخل العنصر -->
+    <color name="starGold">#C4A568</color>
+    <color name="favListBackground">#0F1010</color>
+    <color name="favSectionTitle">#EDE6D6</color>
+
+    <!-- كبسولات الصفحات الحديثة (ليل) -->
+    <color name="recentChipBg">#171919</color>
+    <color name="recentChipStroke">#262626</color>
+    <color name="recentChipText">#FFFFFF</color>
+    <color name="navItemText">#FFF8E1</color> <!-- نص القائمة الجانبية -->
+    <color name="unselectedIconTint">#FFE082</color> <!-- أيقونات غير محددة -->
+    <color name="drawerBackground">#101010</color> <!-- خلفية القائمة -->
+
+    <color name="quranGold">#FFD700</color> <!-- الذهبي الموحد -->
+    <color name="cardBackground">#1C1C1C</color> <!-- خلفية الكروت -->
+    <color name="textPrimary">#FFFFFF</color>
+
+    <color name="tabTextDefaultStrong">#BFBFBF</color>
+    <color name="tabTextSelectedStrong">#FFFFFF</color>
+    <color name="tabIndicatorStrong">#FFD700</color>
+
+    <color name="juzCardBackground">#1A1A1A</color>      <!-- داكن أنيق -->
+    <color name="juzCardBorder">#2E2E2E</color>         <!-- حدود رمادية داكنة -->
+    <color name="juzRipple">#33FFD700</color>           <!-- تأثير ذهبي خفيف -->
+    <color name="juzTitleText">#FFFFFF</color>
+    <color name="juzSubText">#B3FFFFFF</color>
+    <color name="juzIconTint">#757575</color>
+    <color name="onJuzBadge">#FFF8E1</color>
+    <color name="surahCardBackground">#1A1A1A</color>
+    <color name="surahCardBorder">#2E2E2E</color>
+    <color name="surahRipple">#33FFD700</color>
+    <color name="surahTitleText">#FFFFFF</color>
+    <color name="surahSubText">#B3FFFFFF</color>
+    <color name="surahIconTint">#757575</color>
+    <color name="onSurahBadge">#FFF8E1</color>
+    <color name="favCardBg">#1A1A1A</color>          <!-- خلفية داكنة -->
+    <color name="favCardStroke">#2E2E2E</color>     <!-- حدود رمادية داكنة -->
+    <color name="favCardRipple">#33FFD700</color>   <!-- تأثير ذهبي خفيف -->
+    <color name="bookmarkTitleColor">#FFFFFF</color>
+    <color name="textSecondary">#B3FFFFFF</color>
+    <color name="deleteRed">#EF5350</color>
+    <color name="overlay_card_bg_66">#A6121212</color> <!-- 65% أسود/داكن -->
+    <color name="colorOnPrimaryMuted">#4A4030</color>
+
+    <color name="colorPrimary">#F4ECDC</color>
+    <color name="colorPrimaryDark">#E9E0CD</color>
+
+    <color name="colorOnPrimary">#2E2618</color>
+    <color name="surfaceTrans90">#E6F4ECDC</color>
+
+    <!-- Ayah Banner - Night -->
+    <color name="ayahBannerBg">#1E1E1E</color>
+    <color name="ayahBannerStroke">#333333</color>
+    <color name="ayahBannerText">#FFFFFFFF</color>
+    <color name="ayahBannerTextSecondary">#B3FFFFFF</color>
+    <color name="ayahBannerIcon">#FFFFFFFF</color>
+    <!-- في الليل: أبيض بنسبة 70% -->
+    <color name="bannerSubtleText">#B3FFFFFF</color>
+    <!-- ليلي: أبيض صافي فوق الخلفية الداكنة -->
+    <color name="ayah_banner_on">#FFFFFFFF</color>
+    <!-- 🌙 خلفية القائمة الجانبية (الوضع الليلي) -->
+    <color name="drawerSurface">#0F1010</color>
+    <color name="drawerOnSurface">#FFFFFF</color>
+    <color name="drawerOnSurfaceDim">#B3FFFFFF</color>
+    <color name="drawerAccent">#C4A568</color>
+    <color name="drawerHeaderBg">#0F1010</color>
+
+    <color name="tabIconActive">#FFD782</color>   <!-- ذهبي أفتح ليلاً -->
+    <color name="tabIconInactive">#6E6E6E</color> <!-- رمادي داكن -->
+    <!-- خلفية صفحة المصحف (ليلي) — اختر أحدهما، ويفضّل #0F1010 لأنه المستخدم في الأعلى -->
+
+    <color name="quran_page_bg">#0F1010</color>
+    <color name="topBarBg">@color/quran_page_bg</color>
+    <color name="bottomBarBg">@color/quran_page_bg</color>
+    <!-- خلفيات -->
+    <color name="screenBg">#0E0F10</color>
+    <color name="langCardBg">#1A1B1E</color>
+    <color name="langCardStroke">#2A2C31</color>
+
+    <!-- نصوص -->
+    <color name="langTitle">#FFFFFFFF</color>
+    <color name="langSubtitle">#B0B3B8</color>
+
+    <!-- إبراز -->
+    <color name="langAccent">#D4AF37</color> <!-- ذهبي هادئ -->
+    <color name="rippleNight">#20FFFFFF</color>
+
+    <!-- شريط علوي/فواصل (اختياري) -->
+    <color name="toolbarNight">#1F2024</color>
+    <color name="dividerNight">#25272B</color>
+    <color name="btn_gold_fixed">#C9A552</color>
+    <color name="btn_gold_text">#FFFFFF</color>
+
+</resources>

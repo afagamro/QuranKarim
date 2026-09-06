@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    app:cardBackgroundColor="@color/overlay_card_bg_66"
+    app:cardCornerRadius="24dp"
+    app:cardElevation="12dp"
+    app:strokeColor="@color/sky_blue_dark"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingStart="28dp"
+        android:paddingTop="26dp"
+        android:paddingEnd="28dp"
+        android:paddingBottom="24dp">
+
+        <com.google.android.material.progressindicator.CircularProgressIndicator
+            android:layout_width="52dp"
+            android:layout_height="52dp"
+            android:indeterminate="true"
+            app:indicatorColor="@color/sky_blue_dark"
+            app:indicatorSize="52dp"
+            app:trackColor="#269C5424"
+            app:trackThickness="5dp" />
+
+        <TextView
+            android:id="@+id/tafsirLoadingTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:gravity="center"
+            android:text="جاري تحميل التفسير"
+            android:textColor="@color/sky_blue_dark"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tafsirLoadingName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:gravity="center"
+            android:text="تفسير السعدي"
+            android:textColor="@color/sky_blue_dark"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="يرجى الانتظار، سيتم فتحه تلقائيًا عند الاكتمال"
+            android:textColor="@color/sky_blue_dark"
+            android:textSize="13sp"
+            android:alpha="0.78" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

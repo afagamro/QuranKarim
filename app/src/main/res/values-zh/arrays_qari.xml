@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qari_names">
+        <item>米沙里·拉希德·阿拉法西</item>
+        <item>阿卜杜勒·拉赫曼·苏代斯</item>
+        <item>苏德·舒赖姆</item>
+        <item>马赫尔·穆艾克利</item>
+        <item>法里斯·阿巴德</item>
+        <item>艾哈迈德·阿吉米</item>
+        <item>哈尼·里法伊</item>
+        <item>阿里·胡代菲</item>
+
+        <item>阿卜杜勒巴西特</item>
+
+        <item>敏沙维</item>
+
+        <item>马哈茂德·哈利勒·胡萨里</item>
+
+        <item>阿卜杜拉·朱哈尼</item>
+        <item>阿卜杜拉·巴斯法尔</item>
+        <item>阿卜杜拉·马特鲁德</item>
+        <item>阿里·贾比尔</item>
+        <item>艾曼·苏韦德</item>
+        <item>萨拉赫·布代尔</item>
+        <item>萨拉赫·布哈提尔</item>
+        <item>亚瑟尔·多萨里</item>
+        <item>亚瑟尔·萨拉马</item>
+        <item>萨赫勒·亚辛</item>
+        <item>纳赛尔·卡塔米</item>
+
+        <item>易卜拉欣·阿赫达尔</item>
+        <item>阿克拉姆·阿拉克米</item>
+        <item>阿里·哈贾吉·苏西</item>
+        <item>穆罕默德·阿尤布</item>
+        <item>穆罕默德·吉布里勒</item>
+        <item>穆罕默德·马哈茂德·塔布拉维</item>
+        <item>穆赫辛·卡西姆</item>
+        <item>穆斯塔法·伊斯梅尔</item>
+        <item>纳比勒·里法伊</item>
+        <item>哈利法·图奈吉</item>
+        <item>苏德·加姆迪</item>
+        <item>卡里姆·曼苏里</item>
+        <item>阿齐兹·阿利利</item>
+        <item>Abu Bakr Al-Shatri</item>
+        <item>Ahmed Nuaina</item>
+        <item>Khalid Abdullah Al-Qahtani</item>
+        <item>Muhammad Abdul Karim</item>
+        <item>Shahriar Parhizgar</item>
+        <item>Mahmoud Ali Al-Banna</item>
+        <item>Mohammad Al-Luhaidan</item>
+        <item>Idris Abkar</item>
+        <item>Khalid Al-Jalil</item>
+        <item>Raad Mohammad Al-Kurdi</item>
+        <item>Ahmed Al-Nufais</item>
+        <item>Salah Al-Hashem</item>
+        <item>Waleed Al-Naihi</item>
+        <item>Ahmed Al-Trabulsi</item>
+        <item>Abdulrahman Al-Ossi</item>
+        <item>Abdulrahman Al-Shahhat</item>
+        <item>Abdulaziz Al-Zahrani</item>
+        <item>Abdul Wadud Hanif</item>
+        <item>Mahmoud Al-Rifai</item>
+        <item>Al-Zain Mohammed Ahmed</item>
+        <item>Nourin Mohammed Siddig</item>
+        <item>Ahmed Mohammed Taher</item>
+    </string-array>
+</resources>

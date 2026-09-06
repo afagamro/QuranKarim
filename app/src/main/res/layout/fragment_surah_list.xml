@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/surahListBackground"
+    tools:ignore="ExtraText">
+
+    <!-- قائمة السور -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/surahRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="12dp"
+        android:clipToPadding="false"
+        android:scrollbarStyle="outsideOverlay"
+        android:background="@android:color/transparent"
+        tools:listitem="@layout/item_surah" />
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/appBackground"
+    android:fitsSystemWindows="false"
+    android:layoutDirection="locale"
+    tools:ignore="ExtraText">
+
+    <!-- شريط علوي -->
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/topBarBg"
+        app:title="@string/language_selection_title"
+        app:titleTextColor="@color/textPrimary"
+        app:navigationIcon="@drawable/ic_arrow_back"
+        app:navigationIconTint="@color/textPrimary" />
+
+    <!-- القائمة -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnContinue"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:minHeight="48dp"
+        android:paddingVertical="10dp"
+        android:textAllCaps="false"
+        android:fontFamily="sans-serif-medium"
+        android:elevation="4dp"
+
+        android:text="@string/continue_text"
+        android:textColor="@color/btn_primary_text"  /> <!-- ✅ لون نص صريح -->
+    app:iconTint="@color/btn_primary_text"        <!-- لو أضفت أيقونة لاحقًا -->
+    app:useMaterialThemeColors="false"            <!-- ✅ لا تطبّق ألوان الماتيريال التلقائية -->
+
+    android:backgroundTint="@color/btn_primary_bg"  <!-- خلفية ذهبية -->
+    app:rippleColor="@color/btn_primary_ripple"
+    app:cornerRadius="16dp"
+    android:stateListAnimator="@animator/btn_press_scale" />
+
+
+    <View
+        android:id="@+id/nav_bar_spacer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/appBackground"
+        android:fitsSystemWindows="true" />
+
+</LinearLayout>
